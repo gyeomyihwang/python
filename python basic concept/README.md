@@ -9,5 +9,4 @@ Uploading commits only for studying myself, not for a commercial purpose.
 박응용 저자님의 "점프 투 파이썬"을 읽고 공부하였습니다.
 점프 투 파이썬은 위키독스에도 게재되어있습니다. 아래에 링크를 첨부합니다.
 영리적인 목적이 아닌 개인적인 공부를 위한 필기와 기록 목적으로만 커밋을 업로드합니다. 
-
-[Wikidocs]: https://wikidocs.net/book/1
+Wikidocs https://wikidocs.net/book/1
