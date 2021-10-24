@@ -113,3 +113,8 @@ print(a) # ['a', 'b', 'c', 4, 5]
 a.extend([6,7])
 print(a) # ['a', 'b', 'c', 4, 5, 6, 7]
 a = ['a','b','c']
+
+# join 함수
+a = ['Life', 'is', 'too', 'short']
+b = " ".join(a)
+print(b)
