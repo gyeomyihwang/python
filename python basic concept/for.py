@@ -72,6 +72,7 @@ for i in range(2, 10):
     print("")
 
 # List 내포 사용하기
+# [표현식 for 항목 in 반복가능객체 if 조건문]
 a = [1, 2, 3, 4] # result라는 리스트에 a리스트에 있는 값 * 3 넣기
 result = []  #빈 리스트
 for num in a:
