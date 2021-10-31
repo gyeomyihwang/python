@@ -47,5 +47,6 @@ print(cal2.add(7)) # 10
 # 가장 간단한 class 예시
 class Cookie:
     pass
-a = Cookie()
+
+a = Cookie() # Cookie() 의 결괏값을 돌려받은 a 와 b = 객체
 b = Cookie()
